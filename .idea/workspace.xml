@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e2ee816-0285-4891-824c-91aa04d6c680" name="Default Changelist" comment="外星人入侵 子弹设置">
-      <change afterPath="$PROJECT_DIR$/game_package/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_package/photo/alien.bmp" afterDir="false" />
+    <list default="true" id="5e2ee816-0285-4891-824c-91aa04d6c680" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_package/alien.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/alien.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_package/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/alien_invasion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_package/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/game_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_package/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Alien_invasion$ship.coverage" NAME="ship Coverage Results" MODIFIED="1552095651651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package" />
     <SUITE FILE_PATH="coverage/Alien_invasion$ffff_pu.coverage" NAME="ffff.pu Coverage Results" MODIFIED="1552389947193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package/photo" />
-    <SUITE FILE_PATH="coverage/Alien_invasion$game_functions.coverage" NAME="game_functions Coverage Results" MODIFIED="1552184261892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package" />
-    <SUITE FILE_PATH="coverage/Alien_invasion$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1552389571554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package" />
+    <SUITE FILE_PATH="coverage/Alien_invasion$game_functions.coverage" NAME="game_functions Coverage Results" MODIFIED="1552559754464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package" />
+    <SUITE FILE_PATH="coverage/Alien_invasion$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1552563701032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package" />
     <SUITE FILE_PATH="coverage/Alien_invasion$fff.coverage" NAME="fff Coverage Results" MODIFIED="1552388427686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package/photo" />
   </component>
   <component name="FileEditorManager">
@@ -26,8 +26,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game_package/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game_package/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="304">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -65,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game_package/game_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1463">
-              <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+            <state relative-caret-position="190">
+              <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -77,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game_package/alien.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="143">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -105,12 +108,13 @@
         <option value="$PROJECT_DIR$/game_package/ship.py" />
         <option value="$PROJECT_DIR$/game_package/photo/bullet.ppy.py" />
         <option value="$PROJECT_DIR$/game_package/bullet.py" />
-        <option value="$PROJECT_DIR$/game_package/settings.py" />
-        <option value="$PROJECT_DIR$/game_package/alien.py" />
         <option value="$PROJECT_DIR$/game_package/photo/fff.py" />
-        <option value="$PROJECT_DIR$/game_package/alien_invasion.py" />
         <option value="$PROJECT_DIR$/game_package/photo/ffff.pu.py" />
+        <option value="$PROJECT_DIR$/game/my_game.py" />
         <option value="$PROJECT_DIR$/game_package/game_functions.py" />
+        <option value="$PROJECT_DIR$/game_package/alien.py" />
+        <option value="$PROJECT_DIR$/game_package/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/game_package/settings.py" />
       </list>
     </option>
   </component>
@@ -126,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,7 +147,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ffff.pu">
+  <component name="RunManager" selected="Python.alien_invasion">
     <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Alien invasion" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,10 +287,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ffff.pu" />
         <item itemvalue="Python.alien_invasion" />
-        <item itemvalue="Python.fff" />
         <item itemvalue="Python.game_functions" />
+        <item itemvalue="Python.ffff.pu" />
+        <item itemvalue="Python.fff" />
         <item itemvalue="Python.ship" />
       </list>
     </recent_temporary>
@@ -315,7 +319,9 @@
       <workItem from="1552179719717" duration="4773000" />
       <workItem from="1552195924660" duration="1180000" />
       <workItem from="1552386367639" duration="55000" />
-      <workItem from="1552387310133" duration="3096000" />
+      <workItem from="1552387310133" duration="3870000" />
+      <workItem from="1552445195108" duration="2468000" />
+      <workItem from="1552558060310" duration="5688000" />
     </task>
     <task id="LOCAL-00001" summary="外星人入侵 游戏">
       <created>1551861896887</created>
@@ -450,17 +456,23 @@
       <option name="project" value="LOCAL" />
       <updated>1552185046806</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="外星人入侵 外星人设置">
+      <created>1552390931821</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1552390931822</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31738000" />
+    <option name="totallyTimeSpent" value="40668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30093834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.308311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -498,7 +510,8 @@
     <MESSAGE value="外星人入侵 子弹发射" />
     <MESSAGE value="外星人入侵 子弹" />
     <MESSAGE value="外星人入侵 子弹设置" />
-    <option name="LAST_COMMIT_MESSAGE" value="外星人入侵 子弹设置" />
+    <MESSAGE value="外星人入侵 外星人设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="外星人入侵 外星人设置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,36 +550,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game_package/photo/fff.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game_package/alien.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game_package/photo/ffff.pu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game_package/game_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1463">
-          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/game_package/photo/fff.py" />
+    <entry file="file://$PROJECT_DIR$/game_package/photo/ffff.pu.py" />
+    <entry file="file://$PROJECT_DIR$/game/my_game.py" />
     <entry file="file://$PROJECT_DIR$/game_package/ship.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -584,17 +570,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/game_package/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_package/game_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/game_package/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="304">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game_package/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
