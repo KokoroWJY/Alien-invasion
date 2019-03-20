@@ -6,7 +6,7 @@ class GameStats():
         self.ai_settings = ai_settings
         self.reset_stats()
 
-        # 游戏刚启动时处于激活状态
+        # 游戏刚启动时处于非激活状态
         self.game_active = True
 
     def reset_stats(self):
