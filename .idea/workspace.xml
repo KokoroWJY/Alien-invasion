@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e2ee816-0285-4891-824c-91aa04d6c680" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/game_package/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_package/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/alien_invasion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_package/button.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/button.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_package/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/game_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_package/game_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/game_stats.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_package/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_package/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,16 +15,16 @@
     <SUITE FILE_PATH="coverage/Alien_invasion$ffff_pu.coverage" NAME="ffff.pu Coverage Results" MODIFIED="1552389947193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package/photo" />
     <SUITE FILE_PATH="coverage/Alien_invasion$game.coverage" NAME="game Coverage Results" MODIFIED="1552993250588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package/photo" />
     <SUITE FILE_PATH="coverage/Alien_invasion$game_functions.coverage" NAME="game_functions Coverage Results" MODIFIED="1552559754464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package" />
-    <SUITE FILE_PATH="coverage/Alien_invasion$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1553169819641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package" />
+    <SUITE FILE_PATH="coverage/Alien_invasion$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1553173248722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package" />
     <SUITE FILE_PATH="coverage/Alien_invasion$fff.coverage" NAME="fff Coverage Results" MODIFIED="1552388427686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game_package/photo" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game_package/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -56,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game_package/button.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
+            <state relative-caret-position="418">
               <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
@@ -156,7 +150,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="y" value="25" />
-    <option name="width" value="974" />
+    <option name="width" value="975" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -373,7 +367,7 @@
       <workItem from="1553043206618" duration="769000" />
       <workItem from="1553046800437" duration="3897000" />
       <workItem from="1553069567223" duration="38000" />
-      <workItem from="1553162801330" duration="7030000" />
+      <workItem from="1553162801330" duration="7196000" />
     </task>
     <task id="LOCAL-00001" summary="外星人入侵 游戏">
       <created>1551861896887</created>
@@ -543,15 +537,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553048506419</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="外星人入侵">
+      <created>1553169957825</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1553169957825</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77598000" />
+    <option name="totallyTimeSpent" value="77764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.20643431" />
       <window_info id="Structure" order="1" sideWeight="0.5011547" side_tool="true" weight="0.33847186" />
@@ -681,16 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game_package/alien_invasion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game_package/game_stats.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -707,8 +697,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game_package/button.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="418">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_package/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
