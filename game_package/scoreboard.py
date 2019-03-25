@@ -59,7 +59,7 @@ class Scoreboard():
 
     def prep_ships(self):
         """显示还余下多少艘飞船"""
-        self.ships= Group()
+        self.ships = Group()
         for ship_number in range(self.stats.ships_left):
             ship = Ship(self.ai_settings, self.screen)
             ship.rect.x = 10 + ship_number * ship.rect.width
@@ -71,3 +71,6 @@ class Scoreboard():
         self.screen.blit(self.score_image, self.score_rect)
         self.screen.blit(self.high_score_image, self.high_score_rect)
         self.screen.blit(self.level_image, self.level_rect)
+
+        # 绘制飞船
+        self.ships.draw(self.screen)

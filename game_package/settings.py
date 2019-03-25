@@ -36,7 +36,7 @@ class Settings():
         self.alien_speed_factor = 1
 
         # fleet_direction为1表示向右; 为-1表示向左
-        self.fleet_direction =1
+        self.fleet_direction = 1
 
         # 积分
         self.alien_points = 50
