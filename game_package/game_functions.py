@@ -161,7 +161,7 @@ def update_aliens(ai_settings, screen, stats, sb, ship, aliens, bullets):
 
     # 检测外星人和飞船之间的碰撞
     if pygame.sprite.spritecollideany(ship, aliens):
-        ship_hit(ai_settings, stats, sb, screen, ship, aliens, bullets)
+        ship_hit(ai_settings, screen, stats, sb, ship, aliens, bullets)
 
     # 检查是否有外星人到达屏幕底端
     check_aliens_bottom(ai_settings, screen, stats, sb, ship, aliens, bullets)
@@ -227,7 +227,7 @@ def change_fleet_direction(ai_settings, aliens):
     ai_settings.fleet_direction *= -1
 
 
-def ship_hit(ai_settings, stats, sb, screen, ship, aliens, bullets):
+def ship_hit(ai_settings, screen, stats, sb, ship, aliens, bullets):
     """响应外星人撞到飞船"""
     if stats.ships_left > 0:
         # 将ships_left减1
